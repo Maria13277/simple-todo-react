@@ -1,0 +1,8 @@
+.list {
+    height: 650px;
+    overflow-y: scroll;
+}
+
+.list::-webkit-scrollbar {
+    width: 0;
+}
